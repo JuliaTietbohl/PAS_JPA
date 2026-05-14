@@ -3,3 +3,9 @@ INSERT INTO livro (id,titulo,autor,ano) VALUES (120, 'Spring-Boot', 'Jose de Sou
 INSERT INTO livro (id,titulo,autor,ano) VALUES (130, 'Principios SOLID', 'Pedro da Silva', 2023);
 INSERT INTO livro (id,titulo,autor,ano) VALUES (140, 'Padroes de Projeto', 'JoanaMoura', 2023);
 INSERT INTO livro (id,titulo,autor,ano) VALUES (150, 'Teste Unitario', 'Pedro da Silva', 2024);
+
+INSERT INTO editora (codigo,nome) VALUES (1,'Editora Intrínseca');
+INSERT INTO editora (codigo,nome) VALUES (2,'Editora Record');
+INSERT INTO editora (codigo,nome) VALUES (3,'Editora Rocco');
+INSERT INTO editora (codigo,nome) VALUES (4,'Editora Galera');
+INSERT INTO editora (codigo,nome) VALUES (5,'Editora Panini');
